@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jackson Rosenthal 
+Sudent Email:  jrosen27@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I personally am still having some difficulties coding the exact codes under the streamlit if statements to make them work properly, but did learn some from this assignment of what is needed most of the time in simpler streamlit applications. I also did not know about the .success streamlit function prior to this assignment, and had not seen it before but now understand how it works and how to code it as well. Overall, through this assignment I gained a stronger understanding of the setting up of a streamlit function prior to the long if loop. 
